@@ -23,10 +23,10 @@ Works across Antigravity IDE, GitHub Copilot, Cursor, Claude Code, and OpenClaw:
 
 ```bash
 # Install globally across all projects
-npx skills add <github-username>/start-dev-skill -g
+npx skills add rgunawans/start-dev-skill -g
 
 # Or install into the current workspace only
-npx skills add <github-username>/start-dev-skill
+npx skills add rgunawans/start-dev-skill
 ```
 
 ### Option 2: PowerShell (Zero Node.js Dependency)
