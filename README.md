@@ -33,7 +33,7 @@ npx skills add rgunawans/start-dev-skill
 Clone the repo and run `install.ps1`:
 
 ```powershell
-git clone [https://github.com/](https://github.com/)<github-username>/start-dev-skill.git
+git clone https://github.com/rgunawans/start-dev-skill.git
 cd start-dev-skill
 
 # Install globally for Antigravity, Copilot, Cursor, and Claude
